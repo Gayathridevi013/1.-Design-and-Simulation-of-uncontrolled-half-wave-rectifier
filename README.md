@@ -51,11 +51,16 @@ Design, Simulate and analyse the below given circuit using the following values.
 Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
-## Simulation
+## Simulation 
+<img width="1136" height="483" alt="image" src="https://github.com/user-attachments/assets/bdb55abc-74e2-4e27-a0e1-e95b946df6c6" />
+
 
 ## Output
+<img width="1900" height="877" alt="image" src="https://github.com/user-attachments/assets/f300ee5b-7269-4274-99a3-0863dde35e42" />
+
 
 ## Result
+Thus, the half-wave rectifier has been simulated in MATLAB successfully.
 
 
 
